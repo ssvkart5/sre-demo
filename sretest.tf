@@ -20,5 +20,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "sredemo-rg" {
   name     = "sredemo-rg"
-  location = "West Europe"
+  location = "East US"
 }
